@@ -1,9 +1,12 @@
 # 🌍 Earthquake Analysis
 
+
 ## 📊 Overview
 This project offers a comprehensive analysis of global earthquake data, aimed at uncovering patterns, trends, and potential societal impacts of seismic activity. By leveraging robust data science tools and visualizations, we explore the dynamics of earthquakes from both temporal and spatial perspectives.
 
 Understanding earthquakes is essential not only for geoscientific research but also for developing strategies for disaster preparedness and risk mitigation in vulnerable regions. This analysis provides valuable insights into seismic activity across the globe.
+
+![Earthquakes](img/Earthquakes.jpg)
 
 ---
 
